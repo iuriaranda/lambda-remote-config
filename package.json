@@ -1,0 +1,19 @@
+{
+  "name": "lambda-remote-config",
+  "version": "0.1.0",
+  "description": "Load configuration from a remote (or S3) file in a AWS Lambda function",
+  "main": "index.js",
+  "keywords": [
+    "lambda",
+    "aws",
+    "s3",
+    "config",
+    "configuration",
+    "remote"
+  ],
+  "author": "iuri aranda <iuri.aranda@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "2.2.31"
+  }
+}

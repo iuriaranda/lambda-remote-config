@@ -15,5 +15,9 @@
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "2.2.31"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iuriaranda/lambda-remote-config.git"
   }
 }

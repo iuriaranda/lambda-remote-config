@@ -25,6 +25,7 @@ When the configuration is loaded successfully, and before calling the handler me
 ## ToDo
 
 * Add some tests
+* Introduce some retry mechanism for retriable errors
 * Load config from remote urls
 * Load config from a DynamoDB table
 
